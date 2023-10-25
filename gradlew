@@ -1,16 +1,3 @@
-$ git clone https://github.com/Alaa3Souqi/CI-CD-Demo.git
-Cloning into 'mortar-evolution-stone'...
-remote: Counting objects: 136, done.
-remote: Compressing objects: 100% (31/31), done.
-remote: Total 136 (delta 7), reused 0 (delta 0), pack-reused 101
-Receiving objects: 100% (136/136), 421.80 KiB | 355.00 KiB/s, done.
-Resolving deltas: 100% (13/13), done.
-Checking connectivity... done.
-$ cd mortar-evolution-stone
-        $ ls -l gradlew
--rw-r--r--  1 asari  staff  4971 Jan 31 15:01 gradlew
-
-
 #!/usr/bin/env sh
 
 #
@@ -28,10 +15,6 @@ $ cd mortar-evolution-stone
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
-
-
-
 
 ##############################################################################
 ##
